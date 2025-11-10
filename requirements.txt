@@ -7,12 +7,13 @@ xarray
 requests 
 netCDF4 
 metpy 
-h5py 
 zarr 
 shapely 
 boto3 
 geopandas 
 s3fs 
-h5netcdf 
+fsspec
 timezonefinder 
 pytz
+pyarrow
+fastparquet
