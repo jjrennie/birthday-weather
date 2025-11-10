@@ -12,3 +12,4 @@ Get weather information from the day you were born, using data procured and arch
 
 Most of the data used in this notebook is hosted by cloud repositories such as <a href="https://aws.amazon.com/" target="_blank">Amazon Web Services</a> and <a href="https://cloud.google.com/" target="_blank"> Google Cloud</a>. For this notebook we will use Python packages that utilize AWS. 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jjrennie/birthday-weather/HEAD?urlpath=%2Fdoc%2Ftree%2FbirthdayWx.ipynb)
