@@ -18,3 +18,4 @@ pytz
 pyarrow
 fastparquet
 h5netcdf
+tropycal
