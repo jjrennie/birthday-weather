@@ -19,3 +19,4 @@ pyarrow
 fastparquet
 h5netcdf
 tropycal
+h5py
